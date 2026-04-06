@@ -2,3 +2,4 @@ ytvenv/
 __pycache__/
 import_video_stats.py
 .env
+sample_yt_video_results.json
